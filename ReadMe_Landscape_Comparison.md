@@ -6,7 +6,7 @@ LandscapeComparisonScript contains 8 files in total.
    The script for the in vitro/in vivo comparison, this script does:    
       + loads the data and in vitro Kds
       + plots the model landscape (with the in vivo fitted mRNA/protein concentrations)
-      +  plots the measured in vivo landscape
+      + plots the measured in vivo landscape
       + returns the z-scores
 
 2. FitInvivoAll3Replicate.m: function file that does the fitting procedure to in vivo iCLIP signal
